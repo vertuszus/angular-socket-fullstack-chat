@@ -2,7 +2,7 @@ Frontend Part
 
 https://ng-socket-chat.vercel.app/
 
-![image](https://user-images.githubusercontent.com/72495167/176651112-5e036af3-f11a-47ea-9bf9-4b9a45e0bde7.png)
+![image](https://user-images.githubusercontent.com/72495167/176652650-2a197aba-de98-49e0-ab39-91bbb25a24b2.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
