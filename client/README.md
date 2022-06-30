@@ -1,5 +1,7 @@
 # Client
 
+![image](https://user-images.githubusercontent.com/72495167/176651112-5e036af3-f11a-47ea-9bf9-4b9a45e0bde7.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
 ## Development server
