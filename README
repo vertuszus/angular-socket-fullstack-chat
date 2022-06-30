@@ -3,5 +3,5 @@ For restart server:
 heroku login
 git init
 heroku apps
-heroku git:remote -a ng-socket-chat-test-app
+heroku git:remote -a <your-heroku-server-project-name>
 heroku dyno:restart
