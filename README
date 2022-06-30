@@ -1,6 +1,6 @@
 Backend Part
 
-For restart server:
+How to restart server:
 
 heroku login
 git init
